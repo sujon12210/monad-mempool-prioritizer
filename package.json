@@ -1,0 +1,10 @@
+{
+  "name": "monad-mempool-prioritizer",
+  "version": "1.0.0",
+  "description": "Algorithmic execution matrix and parallel transaction mempool sorter for Monad",
+  "main": "profileMempoolSorting.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
